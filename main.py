@@ -46,5 +46,6 @@ while game_is_on:
 #test
 #update1
 #update2
+#update3
 
 screen.exitonclick()
