@@ -44,8 +44,12 @@ while game_is_on:
             scoreboard.game_over()
 
 #test
+<<<<<<< HEAD
 #update1
 #update2
 #update3
+=======
+
+>>>>>>> cd3d5ecc6b74abe9e5e220e9e9898ff68c6017db
 
 screen.exitonclick()
