@@ -44,6 +44,6 @@ while game_is_on:
             scoreboard.game_over()
 
 #test
-
+#update1
 
 screen.exitonclick()
